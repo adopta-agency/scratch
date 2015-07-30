@@ -37,6 +37,7 @@ Terminology
 Service Providers
 * Github
 * APISpark
+* Apitite
 * AWS (EC2, S3, Lambda, Gateway)
 * Google Drive (Spreadsheets)
 * Twitter
